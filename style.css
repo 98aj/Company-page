@@ -1,0 +1,66 @@
+body{
+    font-family: inter;
+}
+.navbar{
+    
+    height: 87px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding-left: 15px;
+}
+.left-nav{
+    font-size: 40px;
+    font-weight: 700;
+}
+.left-nav, .right-nav{
+    margin: 20px;
+}
+.workspace-img{
+    width: 729px;
+    height: 911px;
+}
+.cont-left{
+    width: 791px;
+    height: 529px;
+    margin: 20px;
+}
+.cont-right{
+    margin: 30px;
+}
+.btn{
+    background-color: black;
+    width: 226px;
+    height: 58px;
+    color: white;
+    font-size: 24px;
+    font-weight: 300;
+}
+.cont-top{
+    
+    display: flex;
+    justify-content: space-between;
+    
+}
+.flex-image{
+    width: 100px;
+    height: 100px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+
+.cont-bottom{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
